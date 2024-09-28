@@ -1,0 +1,20 @@
+*{
+    background-color: blueviolet;
+    color: black;
+}
+h1{
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: aqua;
+    font-family:'Times New Roman', Times, serif ;
+
+}
+.resaltado{
+    background-color: blueviolet;
+    color:aqua;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 28px;
+
+}
